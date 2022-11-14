@@ -1,0 +1,37 @@
+*{
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+button:hover{
+    cursor: pointer;
+}
+
+body{
+   background-color: pink;
+}
+
+h1{
+    color: brown;
+}
+
+.modo_novio{
+    height: 2000px;
+    position: absolute;
+    display: none;
+    width: 100%;
+    background-color: #fa2c2c;
+}
+
+#btn_Si{
+   padding: 32px;
+    color: green;
+    background-color: greenyellow;
+    border-radius: 8px;
+    border-color: green;
+    font-size: xx-large;
+    text-align: center;
+}
+
+#btn_No{
+    background-color: #fa2c2c;
+}
